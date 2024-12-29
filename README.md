@@ -20,15 +20,11 @@ The notebook performs the following key tasks:
 
 3. **Preliminary Statistical Testing**
    - Conducting hypothesis testing to evaluate relationships and trends.
-   - Using `scipy` for statistical significance tests.
+   - Using `scipy` to produce and interpret p-values for statistical significance tests.
 
 4. **Ordinary Least Squares (OLS) Regression Modeling**
    - Building and fitting OLS regression models using `statsmodels.api`.
    - Assessing model fit and assumptions.
-
-5. **P-Value Assessment**
-   - Interpreting p-values to determine the statistical significance of relationships.
-   - Visualizing regression results and residuals.
 
 ---
 
