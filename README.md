@@ -1,4 +1,4 @@
-[View on GitHub](./amazon-reviews.ipynb)
+[View Study on GitHub](./amazon-reviews.ipynb)
 
 # Amazon Reviews and Prices: Data Cleaning and Statistical Analysis
 
