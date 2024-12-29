@@ -1,3 +1,5 @@
+[View on GitHub](./amazon-reviews.ipynb)
+
 # Amazon Reviews and Prices: Data Cleaning and Statistical Analysis
 
 This repository contains a Jupyter Notebook that cleans and analyzes a dataset of Amazon reviews and prices, sourced from Kaggle: [Amazon Sales Dataset](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset/data). The project leverages Python libraries such as `pandas`, `matplotlib`, `statsmodels.api`, and `scipy` to explore, clean, and model the data for actionable insights.
