@@ -1,4 +1,4 @@
-[View Study on GitHub](./amazon-reviews.ipynb)
+## Click [HERE](./amazon-reviews.ipynb) to view the lab on Github
 
 # Amazon Reviews and Prices: Data Cleaning and Statistical Analysis
 
